@@ -27,7 +27,8 @@
                     <field name="country_id" invisible="1"/>
                 </field>
 
-
+                <xpath expr="//field[@name='vat']" position="replace"/>
+                
                 <!-- Dynamic Form which opens when creating a related contact to a company -->
                 <xpath expr="(//field[@name='city'])[4]" position="replace"></xpath>
                 <xpath expr="(//field[@name='state_id'])[4]" position="replace"></xpath>
