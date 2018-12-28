@@ -42,6 +42,8 @@
     ],
     'data': [
         'views/l10n_co_res_partner.xml'
+        'data/l10n_states_co_data.xml',
+        'data/l10n_cities_co_data.xml',
     ],
     'installable': True,
     'application': True,

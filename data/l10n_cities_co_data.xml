@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<openerp>
+<odoo>
     <!-- States -->
     <data noupdate="1">
 
@@ -8821,4 +8821,4 @@
         </record>
 
     </data>
-</openerp>
+</odoo>
