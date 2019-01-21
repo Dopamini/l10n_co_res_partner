@@ -14,7 +14,7 @@
                 <field name="l10n_co_document_type" position="attributes">
                     <attribute name="invisible">True</attribute>
                 </field>
--->x
+-->
                 <field name="company_type" position="attributes">
                     <attribute name="invisible">True</attribute>
                 </field>
