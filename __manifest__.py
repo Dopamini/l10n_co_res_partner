@@ -37,6 +37,8 @@
                'Contact Module - Odoo 11.0',
     'images': ['images/main_screenshot.png'],
     'depends': [
+    'base',
+    'l10n_co',
     ],
     'data': [
         'security/ir.model.access.csv',
